@@ -28,15 +28,10 @@ body {
     font-size: 72px;
     margin-bottom: 40px;
 }
-#question {
-}
-#content {
-    /* height: 500px; */
-}
 
 button {
     margin-bottom: 12px;
-    width: 200px;
+    min-width: 200px;
     min-height: 80px;
     cursor: pointer;
     background: black;
